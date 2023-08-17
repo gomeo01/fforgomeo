@@ -2,7 +2,6 @@
 Cuu cu
 Ha gfafg 
 Hka fakg a' ahghga g'a jahga 
-Ag ahgah ga;gha/gj
 Ag ạga gja
 Gk a'ghag
 A kg'ahga 
