@@ -7,7 +7,7 @@
   ],
   "parser": "@babel/eslint-parser",
   "env": {
-    "browser": true,
+    "browsser": true,
     "node": true,
     "es6": true
   },
