@@ -1,4 +1,7 @@
-{{{
+Godzilla, the lumbering father of future action movies, has been a staple of cinema for nearly 70 years, the giant lizard stomping on cities around the world and tangling with other monsters in dozens of spinoffs. The new, Japanese-made Godzilla Minus One is being acclaimed as among the best ever, and it is that rare thing, both a critical and box office success. That may be a lesson for Hollywood. Reportedly made for a mere $15m, with a simple plot and a surprisingly complicated, humane hero, its back-to-basics approach has made the film a hit at the very moment that bloated Hollywood superhero franchises are flailing.
+
+
+{
   "root": true,
   "extends": [
     "airbnb",
